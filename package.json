@@ -2,7 +2,7 @@
   "name": "prueba-router",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://KOLEN94.github.io/prueba-rutas-portafolio/",
+  "homepage": "https://kolen94.github.io/prueba-rutas-portafolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
