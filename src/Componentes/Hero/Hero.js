@@ -8,7 +8,8 @@ import Button from 'react-bootstrap/Button';
 
 export default function Hero() {
   return (
-        <Container fluid className="Inicio" id="hero">
+    <>
+    <Container fluid className="Inicio" id="hero">
             <Row className="d-flex align-items-center contenido-hero">
                 <Col>
                     <div className="text-lg-start text-md-start text-center flex-column h-100 justify-content-center bloque-titulos">
@@ -52,5 +53,7 @@ export default function Hero() {
                 </Col>
             </Row>
         </Container>
+    </>
+        
   );
 }
