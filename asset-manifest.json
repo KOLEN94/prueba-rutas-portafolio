@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/prueba-rutas-portafolio/static/css/main.20a64ff4.css",
+    "main.js": "/prueba-rutas-portafolio/static/js/main.375a5020.js",
+    "static/media/bootstrap-icons.woff?": "/prueba-rutas-portafolio/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/banner-teofilowp.jpg": "/prueba-rutas-portafolio/static/media/banner-teofilowp.a0d56e85e293a78cae7c.jpg",
+    "static/media/Teofilo.png": "/prueba-rutas-portafolio/static/media/Teofilo.dfed5d7bc89a52d38cab.png",
+    "static/media/bootstrap-icons.woff2?": "/prueba-rutas-portafolio/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/landing-page-servicio.png": "/prueba-rutas-portafolio/static/media/landing-page-servicio.2ebccc3ad0253051bc06.png",
+    "static/media/logotipo-de-wordpress.png": "/prueba-rutas-portafolio/static/media/logotipo-de-wordpress.760d5768cde269af0fc4.png",
+    "static/media/email-marketing.png": "/prueba-rutas-portafolio/static/media/email-marketing.b5f90ca46b646f0b7ddc.png",
+    "static/media/comercio-electronico.png": "/prueba-rutas-portafolio/static/media/comercio-electronico.8be6627ee7fb946d16ac.png",
+    "static/media/maquetacion-web.png": "/prueba-rutas-portafolio/static/media/maquetacion-web.edd2adad1c5036fc1794.png",
+    "static/media/inmobiliaria-pagina.png": "/prueba-rutas-portafolio/static/media/inmobiliaria-pagina.3cc47c89de9c1a0ee1f2.png",
+    "static/media/logo.svg": "/prueba-rutas-portafolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/prueba-rutas-portafolio/index.html",
+    "main.20a64ff4.css.map": "/prueba-rutas-portafolio/static/css/main.20a64ff4.css.map",
+    "main.375a5020.js.map": "/prueba-rutas-portafolio/static/js/main.375a5020.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a64ff4.css",
+    "static/js/main.375a5020.js"
+  ]
+}
