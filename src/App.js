@@ -5,7 +5,6 @@ import Home from './Pagina/Home';
 function App() {
   return (
       <Routes>
-        
         <Route path="/"  element={<Home />}/>
       </Routes>
   );

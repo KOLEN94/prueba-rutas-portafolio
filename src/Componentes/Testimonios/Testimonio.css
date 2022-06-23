@@ -1,0 +1,33 @@
+.seccion-testimonios{
+    padding: 50px 0 ;
+    background-image: url('../imagenes/bg-pattern.jpg');
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.caja-testimonio{
+    border: 3px solid #6debb5!important;
+    background: transparent!important;
+    margin-right: 2rem;
+    color: #fff!important;
+    min-height: 270px!important;
+}
+.tarjeta-slider-testimonio {
+	position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+	border: 3px solid #6debb5!important;
+    border-radius: 5px;
+    background: transparent!important;
+    margin-right: 2rem;
+    color: #fff!important;
+    min-height: 270px!important;
+    width: 20rem;
+}
+.cuerpo-tarjeta-testimonio {
+	flex: 1 1 auto;
+    padding: 1rem 1rem;
+    min-height: 270px!important;
+}
