@@ -1,6 +1,6 @@
 import { Container, Row,  Col } from "react-bootstrap";
-
-import '../../estilos/Testimonio.css'
+import Marquee from "react-marquee-slider";
+import './Estilos-Testimonio.css'
 export default function Testimonios() {
 
   const Item = [
@@ -48,7 +48,7 @@ export default function Testimonios() {
           Testimonios
         </h2>
         <div style={{ height: "275px" }}>
-          
+        <Marquee velocity={20}>
             {Item.map((Item) => (
                <div  key={Item.id} className="tarjeta-slider-testimonio align-items-center justify-contents-center">
                   <div className="cuerpo-tarjeta-testimonio">
@@ -57,7 +57,7 @@ export default function Testimonios() {
                   </div>
                 </div>
             ))}
-         
+         </Marquee>
           </div>
         </Col>
         </Row>
