@@ -1,11 +1,38 @@
 {
   "files": {
-    "main.css": "/prueba-rutas-portafolio/static/css/main.20a64ff4.css",
-    "main.js": "/prueba-rutas-portafolio/static/js/main.18423079.js",
+    "main.css": "/prueba-rutas-portafolio/static/css/main.9bee4344.css",
+    "main.js": "/prueba-rutas-portafolio/static/js/main.152adfd7.js",
+    "static/media/RaicesTj.png": "/prueba-rutas-portafolio/static/media/RaicesTj.9ea7c5c4e76046a3f121.png",
+    "static/media/Mockup03.jpg": "/prueba-rutas-portafolio/static/media/Mockup03.b6e8a79f9d686bd89738.jpg",
     "static/media/bootstrap-icons.woff?": "/prueba-rutas-portafolio/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/plasticosmonterrey.com.jpg": "/prueba-rutas-portafolio/static/media/plasticosmonterrey.com.2d175669ad422992e916.jpg",
+    "static/media/Fegamo-&-Vasaf.jpg": "/prueba-rutas-portafolio/static/media/Fegamo-&-Vasaf.ee258c9ca0c793ad8724.jpg",
+    "static/media/Mockup02.jpg": "/prueba-rutas-portafolio/static/media/Mockup02.72828c61c66d31b715cd.jpg",
+    "static/media/ByC-SAC-Negocios-e-Inversiones.jpg": "/prueba-rutas-portafolio/static/media/ByC-SAC-Negocios-e-Inversiones.2be33a1f107e3aa46a39.jpg",
+    "static/media/Mockup01.jpg": "/prueba-rutas-portafolio/static/media/Mockup01.4be443a10c91667d0c71.jpg",
     "static/media/banner-teofilowp.jpg": "/prueba-rutas-portafolio/static/media/banner-teofilowp.a0d56e85e293a78cae7c.jpg",
+    "static/media/redescubramossonora.mx.jpg": "/prueba-rutas-portafolio/static/media/redescubramossonora.mx.a32445bfb683d4b7058e.jpg",
+    "static/media/Bakan.jpg": "/prueba-rutas-portafolio/static/media/Bakan.a12a50537489c11f8a08.jpg",
+    "static/media/ubikaportalinmobiliario.jpg": "/prueba-rutas-portafolio/static/media/ubikaportalinmobiliario.467527fa176a0da3eafd.jpg",
+    "static/media/Mockup04.jpg": "/prueba-rutas-portafolio/static/media/Mockup04.16474c5070e9e2117f10.jpg",
     "static/media/Teofilo.png": "/prueba-rutas-portafolio/static/media/Teofilo.dfed5d7bc89a52d38cab.png",
+    "static/media/nuevo.modasalud.com.pe.jpg": "/prueba-rutas-portafolio/static/media/nuevo.modasalud.com.pe.ecd5805da7a23e29f012.jpg",
+    "static/media/demo-bootrasp.jpg": "/prueba-rutas-portafolio/static/media/demo-bootrasp.7f2aa7d36cb6148a0faa.jpg",
+    "static/media/demo-agencia-cuadrado.jpg": "/prueba-rutas-portafolio/static/media/demo-agencia-cuadrado.7cffe023eae5d7e7b7de.jpg",
     "static/media/bootstrap-icons.woff2?": "/prueba-rutas-portafolio/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/miscompras.bo.jpg": "/prueba-rutas-portafolio/static/media/miscompras.bo.90d01e4a54d45750fa66.jpg",
+    "static/media/Inicio – Memorial Perú.jpg": "/prueba-rutas-portafolio/static/media/Inicio – Memorial Perú.3cf2b8a6e8a3343c8d05.jpg",
+    "static/media/landing-page-teo06.jpg": "/prueba-rutas-portafolio/static/media/landing-page-teo06.d5e9c88d720c22a61a33.jpg",
+    "static/media/ejekutaperu.com.jpg": "/prueba-rutas-portafolio/static/media/ejekutaperu.com.d53beebc9fae1af12de2.jpg",
+    "static/media/edecesos.com.jpg": "/prueba-rutas-portafolio/static/media/edecesos.com.57a144abcf62689e95ba.jpg",
+    "static/media/landing-page-teo05.jpg": "/prueba-rutas-portafolio/static/media/landing-page-teo05.96cb2b7250765823dbed.jpg",
+    "static/media/venta-libros.jpg": "/prueba-rutas-portafolio/static/media/venta-libros.75573471032addd59b9e.jpg",
+    "static/media/pagina-diagonal.jpg": "/prueba-rutas-portafolio/static/media/pagina-diagonal.dee393e385661f8d1e26.jpg",
+    "static/media/www.obilens.com.jpg": "/prueba-rutas-portafolio/static/media/www.obilens.com.ef8cbc6d4d38a1dd80cd.jpg",
+    "static/media/LORENA-Metropolitanmodels-España.jpg": "/prueba-rutas-portafolio/static/media/LORENA-Metropolitanmodels-España.2f31da907932c3ddb3f5.jpg",
+    "static/media/marketinglh.tuexpert.com.jpg": "/prueba-rutas-portafolio/static/media/marketinglh.tuexpert.com.c7e9ccbdc3d1dbb44c35.jpg",
+    "static/media/Inicio – Lopez Castromil - lcastromil.atiksoluciones.com.jpg": "/prueba-rutas-portafolio/static/media/Inicio – Lopez Castromil - lcastromil.atiksoluciones.com.102d8ec470e082c71e1a.jpg",
+    "static/media/Mockup05.jpg": "/prueba-rutas-portafolio/static/media/Mockup05.3f73bc6f3e609ff3ad13.jpg",
     "static/media/landing-page-servicio.png": "/prueba-rutas-portafolio/static/media/landing-page-servicio.2ebccc3ad0253051bc06.png",
     "static/media/logotipo-de-wordpress.png": "/prueba-rutas-portafolio/static/media/logotipo-de-wordpress.760d5768cde269af0fc4.png",
     "static/media/email-marketing.png": "/prueba-rutas-portafolio/static/media/email-marketing.b5f90ca46b646f0b7ddc.png",
@@ -14,11 +41,11 @@
     "static/media/inmobiliaria-pagina.png": "/prueba-rutas-portafolio/static/media/inmobiliaria-pagina.3cc47c89de9c1a0ee1f2.png",
     "static/media/logo.svg": "/prueba-rutas-portafolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/prueba-rutas-portafolio/index.html",
-    "main.20a64ff4.css.map": "/prueba-rutas-portafolio/static/css/main.20a64ff4.css.map",
-    "main.18423079.js.map": "/prueba-rutas-portafolio/static/js/main.18423079.js.map"
+    "main.9bee4344.css.map": "/prueba-rutas-portafolio/static/css/main.9bee4344.css.map",
+    "main.152adfd7.js.map": "/prueba-rutas-portafolio/static/js/main.152adfd7.js.map"
   },
   "entrypoints": [
-    "static/css/main.20a64ff4.css",
-    "static/js/main.18423079.js"
+    "static/css/main.9bee4344.css",
+    "static/js/main.152adfd7.js"
   ]
 }
