@@ -1,9 +1,11 @@
+import React from 'react'
 import { Container, Row, Col } from "react-bootstrap";
 import './Hero_estilos.css'
 import { FaFacebook } from "react-icons/fa";
 import { AiFillLinkedin } from "react-icons/ai";
 import { AiOutlineFilePdf } from "react-icons/ai";
 import Button from 'react-bootstrap/Button';
+
 export default function Hero() {
   return (
         <Container fluid className="Inicio" id="hero">
