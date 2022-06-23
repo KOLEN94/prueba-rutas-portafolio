@@ -1,0 +1,73 @@
+
+.Inicio {
+    background-image: url('../../imagenes/banner-teofilowp.jpg'); 
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.list-inline{
+    padding-left: 0;
+    list-style: none;
+    margin-top: 30px!important;
+}
+.contenido-hero{
+    min-height: 550px;
+    background: #000000a3;
+}
+ 
+.bloque-social, .bloque-CV{
+    padding-top: 50px;
+}
+.boton-cv{
+    border-radius: 25px!important;
+    padding-right: 20px!important;
+    padding-left: 20px!important;
+}
+.list-inline-item:hover{
+    border: 1px solid #01bf71;
+}
+.icono-social{
+    font-size: 24px!important;
+    padding-bottom: 10px;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+.icono-social:hover{
+    color: #01bf71;
+}
+
+@media (max-width: 768px) {
+    .contenido-hero{
+        height: 500px;
+    }
+    .contenido-hero .titulo-h1 {
+      font-size: 45px;
+    }
+    .contenido-hero .titulo-h2 {
+        font-size: 25px;
+    }
+    .contenido-hero .titulo-h3 {
+        font-size: 18px;
+    }
+    .contenido-hero .bloque-social{
+        padding-top: 20px;
+    }
+}
+@media (max-width: 576px) {
+    .contenido-hero{
+        height: 570px;
+    }
+    .contenido-hero .titulo-h1 {
+      font-size: 35px;
+    }
+    .contenido-hero .titulo-h2 {
+        font-size: 19px;
+        padding-top:80px;
+    }
+    .contenido-hero .titulo-h3 {
+        font-size: 15px;
+    }
+    .contenido-hero .bloque-social{
+        padding-top: 20px;
+    }
+}

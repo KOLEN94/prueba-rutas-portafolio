@@ -1,0 +1,29 @@
+.bloque-sobre-mi{
+    padding: 50px 0;
+}
+
+.bloque-sobre-mi .modo-mobil{
+    display: none;
+}
+@media (max-width: 768px) {
+    .imagen-teo-mobil{
+        width: 100%;
+    }
+    .imagen-teo{
+        width: 75%;
+    }
+    .bloque-sobre-mi .texto-cuerpo{
+        font-size: 12px;
+    }
+  }
+@media (max-width: 576px) {
+    .bloque-sobre-mi .modo-escritorio{
+        display: none;
+    }
+    .bloque-sobre-mi .modo-mobil{
+        display: flex;
+    }
+    .bloque-sobre-mi .texto-cuerpo{
+        font-size: 12px;
+    }
+}
