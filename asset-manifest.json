@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/prueba-rutas-portafolio/static/css/main.d80723c0.css",
-    "main.js": "/prueba-rutas-portafolio/static/js/main.408bb98d.js",
+    "main.css": "/prueba-rutas-portafolio/static/css/main.b64ab2c2.css",
+    "main.js": "/prueba-rutas-portafolio/static/js/main.70937994.js",
     "static/media/RaicesTj.png": "/prueba-rutas-portafolio/static/media/RaicesTj.9ea7c5c4e76046a3f121.png",
     "static/media/bg-pattern.jpg": "/prueba-rutas-portafolio/static/media/bg-pattern.3f9a1fd0cc9d957a7110.jpg",
     "static/media/Mockup03.jpg": "/prueba-rutas-portafolio/static/media/Mockup03.b6e8a79f9d686bd89738.jpg",
@@ -41,11 +41,11 @@
     "static/media/maquetacion-web.png": "/prueba-rutas-portafolio/static/media/maquetacion-web.edd2adad1c5036fc1794.png",
     "static/media/inmobiliaria-pagina.png": "/prueba-rutas-portafolio/static/media/inmobiliaria-pagina.3cc47c89de9c1a0ee1f2.png",
     "index.html": "/prueba-rutas-portafolio/index.html",
-    "main.d80723c0.css.map": "/prueba-rutas-portafolio/static/css/main.d80723c0.css.map",
-    "main.408bb98d.js.map": "/prueba-rutas-portafolio/static/js/main.408bb98d.js.map"
+    "main.b64ab2c2.css.map": "/prueba-rutas-portafolio/static/css/main.b64ab2c2.css.map",
+    "main.70937994.js.map": "/prueba-rutas-portafolio/static/js/main.70937994.js.map"
   },
   "entrypoints": [
-    "static/css/main.d80723c0.css",
-    "static/js/main.408bb98d.js"
+    "static/css/main.b64ab2c2.css",
+    "static/js/main.70937994.js"
   ]
 }
