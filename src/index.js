@@ -6,6 +6,7 @@ import App from './App';
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import Navbar from './Componentes/NavBar/NavBar';
+import "animate.css/animate.min.css";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
